@@ -4,7 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4808c8c0abb2669469e480ed29255722, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3041e326362850242b3fba01fcd997cd, type: 2}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/The_Viking_Village.unity
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
